@@ -5,9 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TailorMadeTours"
         mc:Ignorable="d"
-        Title="MainWindow"
-        Height="350"
-        Width="525">
+        Title="Tailor-made Tours"
+        Height="700"
+        Width="800"
+        WindowState='Maximized'
+        FontSize='18'>
   <StackPanel HorizontalAlignment='Stretch' 
               VerticalAlignment='Stretch'>
     <TextBlock x:Name='textBlock'
@@ -16,7 +18,7 @@
                FontWeight='Bold'
                FontSize='24' />
     <TabControl x:Name='tabControl'
-                MinHeight='300'>
+                MinHeight='800'>
       <TabItem Header='Tour Stops '>
         <Grid Background='#FFE5E5E5' />
       </TabItem>
