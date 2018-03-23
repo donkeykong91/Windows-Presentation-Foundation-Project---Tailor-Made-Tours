@@ -1,0 +1,15 @@
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\bin\Debug\TailorMadeTours.exe.config
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\bin\Debug\TailorMadeTours.exe
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\bin\Debug\TailorMadeTours.pdb
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.csprojResolveAssemblyReference.cache
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\MainWindow.g.cs
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\App.g.cs
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours_MarkupCompile.cache
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours_MarkupCompile.lref
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\MainWindow.baml
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.g.resources
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.Properties.Resources.resources
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.csproj.GenerateResource.cache
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.csproj.CoreCompileInputs.cache
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.exe
+C:\Users\Daryl\Desktop\Lynda\WPF\Ex_Files_WPF_1_Desktop\Exercise Files\02_CreateApp\02_Create\TailorMadeTours\TailorMadeTours\obj\Debug\TailorMadeTours.pdb
